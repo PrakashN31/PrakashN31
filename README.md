@@ -7,7 +7,7 @@
 ""Location" (https://img.shields.io/badge/Bengaluru-Karnataka-4B0082?style=for-the-badge)"
 ""Environmental Science" (https://img.shields.io/badge/Environmental%20Science-Research-green?style=for-the-badge)"
 
-</div>---
+</div>
 
 About Me
 
@@ -131,7 +131,7 @@ Outcome| Carbon Storage Assessment
 Repository:
 "arecanut-carbon-storage-analysis"
 
-</details>---
+</details>
 
 <details>
 <summary><b>Plant-Pollinator Network Dynamics</b></summary>Overview
@@ -148,7 +148,7 @@ Study System| Coffee Agroforestry
 Repository:
 "plant-pollinator-network-dynamics"
 
-</details>---
+</details>
 
 <details>
 <summary><b>Long-Term Ecological Monitoring (LTEM)</b></summary>Overview
@@ -158,7 +158,7 @@ Development and monitoring of permanent ecological plots including vegetation ce
 Repository:
 "ltem-kuvempu-university"
 
-</details>---
+</details>
 
 <details>
 <summary><b>Photosynthetic Thermal Tolerance of Tropical Trees</b></summary>Overview
@@ -168,7 +168,7 @@ Investigation of thermal tolerance mechanisms in tropical tree species to unders
 Repository:
 "thermal-tolerance-tropical-trees"
 
-</details>---
+</details>
 
 <details>
 <summary><b>QGIS Ecology Workflows</b></summary>Overview
@@ -184,7 +184,7 @@ Collection of practical GIS workflows for ecological applications including:
 Repository:
 "qgis-ecology-workflows"
 
-</details>---
+</details>
 
 <details>
 <summary><b>R for Ecology</b></summary>Overview
@@ -194,7 +194,7 @@ Scripts and reproducible workflows for ecological data analysis.
 Repository:
 "r-for-ecology"
 
-</details>---
+</details>
 
 Publication
 
@@ -210,6 +210,8 @@ Status: Under Review
 
 
 
+
+
 Education
 
 M.Sc. Environmental Science
@@ -217,6 +219,7 @@ M.Sc. Environmental Science
 Kuvempu University
 
 CGPA: 7.49/10
+
 
 
 
@@ -233,7 +236,7 @@ Research Profiles
 <p align="center"><a href="https://orcid.org/0009-0002-5419-5192">ORCID</a> •
 <a href="https://github.com/PrakashN31">GitHub</a>
 
-</p>---
+</p>
 
 GitHub Analytics
 
