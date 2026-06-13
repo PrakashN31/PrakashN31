@@ -28,7 +28,7 @@ Current Research Interests
 - Agroforestry Systems
 - Environmental Data Analysis using R
 
----
+
 
 Research Focus
 
@@ -76,7 +76,7 @@ When I am not in the field collecting ecological data or analyzing research find
 - 🦜 Observing plants, birds, and wildlife during personal travels and field visits.
 
 I believe that curiosity, whether in research, cooking, or exploring a mountain trail, is one of the best ways to keep learning.
----
+
 
 Technical Skills
 
@@ -102,7 +102,7 @@ Data Analysis
 "Excel" (https://img.shields.io/badge/MS%20Excel-Advanced-217346?style=flat-square&logo=microsoftexcel)
 "Data Visualization" (https://img.shields.io/badge/Data%20Visualization-Research-blue?style=flat-square)
 
----
+
 
 Research Experience
 
@@ -112,7 +112,7 @@ Researcher| Kuvempu University| Long-Term Ecological Monitoring
 Field Officer| Treeties Network Pvt Ltd| Biodiversity Assessment & Restoration
 Research Assistant| ATREE| Ecological Restoration Monitoring
 
----
+
 
 Featured Research Projects
 
@@ -208,7 +208,7 @@ Journal: Plant, Cell & Environment
 
 Status: Under Review
 
----
+
 
 Education
 
@@ -218,7 +218,7 @@ Kuvempu University
 
 CGPA: 7.49/10
 
----
+
 
 B.Sc. Agricultural Biotechnology
 
@@ -226,7 +226,7 @@ University of Agricultural Sciences, Bengaluru
 
 CGPA: 6.92/10
 
----
+
 
 Research Profiles
 
@@ -271,7 +271,7 @@ Open_To:
   - Conservation Projects
   - Ecological Data Analysis
 
----
+
 
 Connect With Me
 
@@ -279,7 +279,7 @@ Connect With Me
 - ORCID: https://orcid.org/0009-0002-5419-5192
 - Linktree: https://linktr.ee/prakashnarayanappa9
 
----
+
 
 «"Understanding ecosystems today to conserve landscapes for tomorrow."»
 
